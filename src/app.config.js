@@ -4,7 +4,7 @@
  * DO NOT store state here - must be part of a stateless service
  */
 class AppConfig {
-    team = 'Team Curiosity';
+    team = 'Team Curiosity Drive';
     version = '1.0.0';
 }
 module.exports = AppConfig;
